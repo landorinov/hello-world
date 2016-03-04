@@ -1,0 +1,7 @@
+
+public class KelasLatihan {
+
+		public static void main(String[]strings args) {
+			System.out.println("Hello World");
+		}
+}
